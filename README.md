@@ -6,6 +6,6 @@
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/github/Amanpathak1/Aman-new-bot-/blob/main/.github/Amanpathak1" target="_blank">
-  <img src="https://Amanpathak1.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+<a href="https://colab.research.google.com/github/SudoR2spr/text-leech-bot/blob/main/.github/AshutoshGoswami24" target="_blank">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
